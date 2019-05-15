@@ -1,4 +1,4 @@
-w# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view -*-
 #+TITLE: 孝經
 #+DATE: 2016-08-10 10:17:46
 #+PROPERTY: ID KR1f0001
